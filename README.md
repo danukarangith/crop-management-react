@@ -24,7 +24,7 @@ click here- https://drive.google.com/drive/folders/1Xrz9hn_a7uE2jTli934yWxmGPuRg
     ```
 2. Navigate to the project directory:
     ```bash
-    cd green-shadow-react-development
+    cd crop-management-react-development
     ```
 3. Install dependencies:
     ```bash

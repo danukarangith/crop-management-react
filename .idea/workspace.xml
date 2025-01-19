@@ -4,13 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72c5c42e-e95f-4d39-b45e-acc0f627a705" name="Changes" comment="">
+    <list default="true" id="72c5c42e-e95f-4d39-b45e-acc0f627a705" name="Changes" comment="sign in page create">
       <change afterPath="$PROJECT_DIR$/src/assets/AgriNexus.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/assets/log2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/sinup.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/Pages/LoginPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Pages/LoginPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/LoginPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/LoginPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/loginPageImg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/registerPageImg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavigationBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavigationBar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/wall/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/wall/Home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/RegisterPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/RegisterPage.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,11 +112,24 @@
       <workItem from="1737187438369" duration="747000" />
       <workItem from="1737273327684" duration="197000" />
       <workItem from="1737273540435" duration="3251000" />
-      <workItem from="1737295107283" duration="2553000" />
+      <workItem from="1737295107283" duration="5477000" />
     </task>
+    <task id="LOCAL-00001" summary="sign in page create">
+      <option name="closed" value="true" />
+      <created>1737297843292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737297843292</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sign in page create" />
+    <option name="LAST_COMMIT_MESSAGE" value="sign in page create" />
   </component>
 </project>

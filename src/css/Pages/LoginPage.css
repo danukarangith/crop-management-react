@@ -15,6 +15,46 @@ body > div {
     border-radius: 15px;
 }
 
+.cssbuttons-io-button {
+    background: #4caf50; /* Green background */
+    color: white; /* Text color */
+    font-family: inherit;
+    padding: 13px 1.2em;
+    font-size: var(--font-18px);
+    font-weight: 500;
+    border: none;
+    border-radius: 8px; /* Rounded corners */
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    transition: background-color 0.3s ease;
+}
+
+.cssbuttons-io-button:hover {
+    background: #4554a0; /* Darker green on hover */
+}
+
+.cssbuttons-io-button .icon {
+    background: white;
+    color: #1159dc;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 10px;
+    transition: transform 0.3s ease;
+}
+
+.cssbuttons-io-button:hover .icon {
+    transform: scale(1.1);
+}
+
+
 .toggle-password i {
     color: #6C757D; /* Neutral gray */
     font-size: 20px;

@@ -1,5 +1,5 @@
-import registerImage from "../assets/registerPageImg.png"
-import logo from "../assets/logo.png"
+import sinup from "../assets/sinup.jpg"
+import AgriNexus from "../assets/AgriNexus.png"
 import '../css/Pages/RegisterPage.css'
 import {Link} from "react-router-dom";
 import {useState} from "react";
@@ -38,15 +38,15 @@ const RegisterPage = () => {
         <>
             <div className="main-container d-grid">
                 <div className="w-100 h-100 d-flex align-items-end">
-                    <img className="w-auto register-img" src={registerImage} alt="" srcSet=""/>
+                    <img className="w-auto register-img" src={sinup} alt="" srcSet=""/>
                     <div className="h-100 d-flex align-items-center justify-content-start ms-5">
                         <canvas className="h-75"></canvas>
                     </div>
                 </div>
                 <div className="pe-5">
                     <div className="logo d-flex gap-4 align-items-center mt-5">
-                        <img src={logo} alt="logo"/>
-                        <h1 className="m-0 fw-medium">Green Shadow</h1>
+                        <img src={AgriNexus} alt="logo"/>
+                        <h1 className="m-0 fw-medium">Green Nexus</h1>
                     </div>
                     <div className="form-container mt-5">
                         <h3 className="fw-medium">Create your account</h3>

@@ -20,7 +20,7 @@ click here- https://drive.google.com/drive/folders/1Xrz9hn_a7uE2jTli934yWxmGPuRg
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/danukarangith/green-shadow-react-development.git
+    git clone https://github.com/danukarangith/crop-management-react.git
     ```
 2. Navigate to the project directory:
     ```bash

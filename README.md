@@ -7,7 +7,7 @@ Green Nexus React Development is a modern and dynamic React-based application fo
 ![Image](https://github.com/user-attachments/assets/0f6e5aff-bddb-4d7e-8d15-6e215d2086e0)
 
 
-## second semester project screneshots
+## Second semester project screneshots
 click here- https://drive.google.com/drive/folders/1Xrz9hn_a7uE2jTli934yWxmGPuRgLKo3?usp=sharing
 
 ## Features

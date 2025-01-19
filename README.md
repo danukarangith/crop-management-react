@@ -1,7 +1,7 @@
-# Project Name: Green Shadow React Development
+# Project Name: Green Nexus React Development
 
 ## Description
-Green Shadow React Development is a modern and dynamic React-based application for monitoring and managing agricultural activities. It leverages React, Chart.js, and other libraries to provide an intuitive interface for visualizing data, managing resources, and enhancing productivity.
+Green Nexus React Development is a modern and dynamic React-based application for monitoring and managing agricultural activities. It leverages React, Chart.js, and other libraries to provide an intuitive interface for visualizing data, managing resources, and enhancing productivity.
 
 ## Features
 - Interactive dashboards and charts using Chart.js

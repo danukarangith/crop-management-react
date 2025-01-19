@@ -1,4 +1,4 @@
-# Project Name: Green Nexus React Development
+#  Green Nexus React Development
 
 ## Description
 Green Nexus React Development is a modern and dynamic React-based application for monitoring and managing agricultural activities. It leverages React, Chart.js, and other libraries to provide an intuitive interface for visualizing data, managing resources, and enhancing productivity.

@@ -3,6 +3,9 @@
 ## Description
 Green Nexus React Development is a modern and dynamic React-based application for monitoring and managing agricultural activities. It leverages React, Chart.js, and other libraries to provide an intuitive interface for visualizing data, managing resources, and enhancing productivity.
 
+
+![Image](https://github.com/user-attachments/assets/0f6e5aff-bddb-4d7e-8d15-6e215d2086e0)
+
 ## Features
 - Interactive dashboards and charts using Chart.js
 - Modular components for scalability and maintainability

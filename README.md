@@ -1,50 +1,72 @@
-# React + TypeScript + Vite
+# Project Name: Green Shadow React Development
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+Green Shadow React Development is a modern and dynamic React-based application for monitoring and managing agricultural activities. It leverages React, Chart.js, and other libraries to provide an intuitive interface for visualizing data, managing resources, and enhancing productivity.
 
-Currently, two official plugins are available:
+## Features
+- Interactive dashboards and charts using Chart.js
+- Modular components for scalability and maintainability
+- Role-based access control (Admin, Scientist, Manager)
+- Responsive design for a seamless user experience on all devices
+- Integration with backend APIs for dynamic data rendering
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/green-shadow-react-development.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd green-shadow-react-development
+    ```
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
 
-## Expanding the ESLint configuration
+## Usage
+1. Start the development server:
+    ```bash
+    npm run dev
+    ```
+2. Open your browser and navigate to `http://localhost:5173`.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
+## Folder Structure
+```
+src/
+  components/
+    wall/
+      Home.tsx
+    cards/
+      card.component.tsx
+  styles/
+    main.css
+  App.tsx
+  main.tsx
 ```
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+## Libraries Used
+- React
+- Chart.js
+- Lucide React
+- Vite
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+## Troubleshooting
+If you encounter issues such as missing modules or type declarations, ensure:
+1. All dependencies are correctly installed.
+2. The `node_modules` folder is intact. If not, run:
+    ```bash
+    npm install
+    ```
+3. The file paths in imports are correct.
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+## Contribution
+Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+---
+
+Feel free to customize this `README.md` further as per your project's requirements.
+
